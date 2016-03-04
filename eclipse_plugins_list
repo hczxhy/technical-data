@@ -50,6 +50,9 @@ http://log4e.jayefem.de/index.php/Main_Page
 
 14.VSSPlugin VSS插件 
 http://sourceforge.net/projects/vssplugin 
+***************************在线更新地址**********************************
+You can download it using the update site at: http://vssplugin.sourceforge.net/updates
+Help => Install New Software => Add as a update site => select vss plugin to install it.
 
 15.Implementors 提供跳转到一个方法的实现类，而不是接中的功能（实用!） 
 http://eclipse-tools.sourceforge.net/implementors/ 
